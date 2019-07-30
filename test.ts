@@ -10,3 +10,4 @@ var p4 = new Person('444-44-4444', 'Alonzo', 'Church', 1903, new Address('US'));
 var people = [p1, p2, p3, p4];
 
 console.log(_(people).reverse().value())
+console.log('test')
